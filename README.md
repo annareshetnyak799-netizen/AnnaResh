@@ -4,8 +4,8 @@
 🎯 Target: Product Analytics / Data Analytics internship
 
 ## Portfolio (1 link)
-- Notion: **Product Analytics Mini-Portfolio** — SQL (funnel + retention), A/B (design + interpretation), notebook report  
-  https://www.notion.so/Product-Analytics-Mini-Portfolio-SQL-A-B-Report-30166452b7e580368ef3d43ab1c57f87
+- Notion: [Product Analytics Mini-Portfolio (SQL funnel+retention · A/B · report)](https://www.notion.so/Product-Analytics-Mini-Portfolio-SQL-A-B-Report-30166452b7e580368ef3d43ab1c57f87)
+
 
 ## What I can do (analytics)
 - Product metrics: **funnel, retention, cohort analysis**
